@@ -12,4 +12,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: by 👉 heenashaikh.com 👉 heenashaikh1811@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: fake it until it make it..!
+- 🌐 https://heenashaikh.com/
+- 🌐 linkedin https://www.linkedin.com/in/heena-shaikh-software-developer/
 
