@@ -1,4 +1,4 @@
-👋 Hi, I'm Heena Shaikh]!
+👋 Hi, I'm Heena Shaikh!
 I'm a QA Engineer / Web Developer with experience in User Experience, Manual & Automation Testing, and Web Technologies. I work with tools like Selenium, TestNG, Maven, Jenkins, Cucumber, SQL, API Testing, and manage workflows using Git/GitHub and JIRA.
 
 🚀 Tech Stack & Tools
