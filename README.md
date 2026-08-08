@@ -16,10 +16,6 @@
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
 </a>
 
-<a href="https://mastodon.social/@Heena">
-<img src="https://img.shields.io/badge/Mastodon-Follow-6364FF?style=for-the-badge&logo=mastodon&logoColor=white" />
-</a>
-
 </div>
 
 ---
