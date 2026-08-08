@@ -115,8 +115,16 @@ Currently expanding my automation skills with **Playwright** across modern web a
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=HeenaSk18&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
+<a href="https://github.com/HeenaSk18">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeenaSk18&layout=compact&theme=tokyonight&langs_count=4&hide=C%2B%2B,C,C%23,HTML,CSS&hide_border=true" height="170"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=HeenaSk18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+
+</a>
+
+<a href="https://github.com/HeenaSk18">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeenaSk18&layout=compact&theme=tokyonight&hide_border=true&langs_count=4&hide=C%2B%2B,C,C%23,HTML,CSS,Shell" />
+
+</a>
 
 </div>
