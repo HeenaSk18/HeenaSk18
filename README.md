@@ -1,163 +1,124 @@
-👋 Hi, I'm **Heena Shaikh!**
+<div align="center">
 
-I'm a **SDET | QAE | DevOps** professional with experience in **User Experience, Manual Testing, Automation Testing, API Testing, and Web Technologies**.
+# 👋 Hi, I'm Heena Shaikh
 
-🔹 I work with tools and technologies such as:
+### SDET • QA Automation Engineer • DevOps
 
-- Selenium WebDriver
-- TestNG
-- JUnit
-- Maven
-- Jenkins
-- Cucumber / Gherkin
-- Postman
-- REST Assured
-- SQL
-- Git & GitHub
-- JIRA
-- Confluence
-
-I enjoy building reliable automation frameworks, improving software quality, and continuously learning new technologies in **QA Automation and DevOps**.
-
----
-
-# 🚀 Tech Stack & Tools
-
-## 🧪 QA Engineering & Testing
-
-**Manual Testing**
-- Functional Testing
-- Regression Testing
-- Smoke Testing
-- UI Testing
-- UX Testing
-- Cross-Browser Testing
-- Cross-Device Testing
-
-**Automation Testing**
-- Selenium WebDriver
-- TestNG
-- JUnit
-
-**BDD Framework**
-- Cucumber
-- Gherkin
-
-**API Testing**
-- Postman
-- REST Assured
-
-**Performance Testing**
-- JMeter *(Basics / In Progress)*
-
----
-
-# 💻 Programming & Scripting Languages
-
-- ☕ Java
-- 🌐 HTML
-- 🎨 CSS
-- 🟨 JavaScript
-- 🗄️ SQL
-
-**Web Development**
-- Responsive UI Design
-- UX Best Practices
-
----
-
-# ⚙️ Build, CI/CD & DevOps
-
-**Build Tools**
-- Maven
-
-**CI/CD**
-- Jenkins
-
-**Version Control**
-- Git
-- GitHub
-
-**Project Management**
-- JIRA
-- Confluence
-
-**Currently Learning**
-- 🐳 Docker
-- ☸️ Kubernetes
-- 🔧 Ansible
-- Other DevOps Tools
-
----
-
-# 📂 Projects
-
-Check out my repositories for:
-
-🔹 Test Automation Frameworks  
-🔹 Selenium Automation Projects  
-🔹 API Testing Projects  
-🔹 Web UI / UX Samples  
-🔹 QA Automation Practice Projects
-
-👉 Explore my repositories:
+**Building reliable software through Automation, API Testing, CI/CD & Quality Engineering**
 
 [![GitHub](https://img.shields.io/badge/GitHub-HeenaSk18-181717?style=for-the-badge&logo=github)](https://github.com/HeenaSk18)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
+
+</div>
 
 ---
 
-# 🌐 Socials
+## 🧭 About Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-HeenaSk18-181717?style=for-the-badge&logo=github)](https://github.com/HeenaSk18)
+I'm **Heena Shaikh**, a **SDET / QA Automation Engineer** passionate about building quality into software from development to delivery.
 
-<!-- Add your LinkedIn URL below -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Heena%20Shaikh-0A66C2?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
+My experience spans:
 
----
+- 🧪 Manual & Automation Testing
+- 🤖 UI Test Automation
+- 🔌 API Testing & Automation
+- 🧩 BDD / Cucumber Frameworks
+- ⚙️ CI/CD & Build Automation
+- 🗄️ SQL & Database Testing
+- 🎨 UI / UX & Web Technologies
+- 🔄 Git-based development workflows
 
-# 💻 Tech Stack
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![TestNG](https://img.shields.io/badge/TestNG-FF6C37?style=for-the-badge)
-![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
-![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![REST Assured](https://img.shields.io/badge/REST%20Assured-43B02A?style=for-the-badge)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![JMeter](https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)
+> **My goal:** Build scalable automation, catch defects early, and help teams ship reliable software faster.
 
 ---
 
-# 📊 GitHub Stats
+## 🛠️ My QA Engineering Stack
 
-![Heena's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HeenaSk18&show_icons=true&theme=dark&hide_border=true)
+### 🤖 Automation
 
-![GitHub Streak](https://streak-stats.demolab.com?user=HeenaSk18&theme=dark&hide_border=true)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![TestNG](https://img.shields.io/badge/TestNG-FF6C37?style=flat-square)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=junit5&logoColor=white)
+![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=flat-square&logo=cucumber&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
+
+### 🔌 API & Database
+
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![REST Assured](https://img.shields.io/badge/REST%20Assured-43B02A?style=flat-square)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square)
+
+### ⚙️ CI/CD & DevOps
+
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+**Currently learning:** 🐳 Docker • ☸️ Kubernetes • 🔧 Ansible • ⚡ JMeter
+
+### 🌐 Web Technologies
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 ---
 
-# 💻 Most Used Languages
+## 🧪 What I Do
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HeenaSk18&layout=compact&theme=dark&hide_border=true)
+| Area | Skills |
+|---|---|
+| **Testing** | Functional • Regression • Smoke • UI • UX |
+| **Automation** | Selenium • TestNG • JUnit |
+| **BDD** | Cucumber • Gherkin |
+| **API** | Postman • REST Assured |
+| **Database** | SQL |
+| **CI/CD** | Jenkins • Maven |
+| **Version Control** | Git • GitHub |
+| **Project Tools** | JIRA • Confluence |
+| **Performance** | JMeter — Learning |
+| **DevOps** | Docker • Kubernetes • Ansible — Learning |
 
 ---
 
-# ⚡ Fun Fact
+## 🚀 Featured Work
 
-> I believe good testing is invisible – because the users never experience a bug! 🐞✨
+### 🔹 UI Test Automation
+
+> Building maintainable UI automation frameworks using **Java + Selenium + TestNG + Maven**.
+
+**Focus areas:**
+
+`Page Object Model` • `Reusable Components` • `Assertions` • `Waits` • `TestNG` • `Reporting`
 
 ---
 
-### ⭐ Thanks for visiting my profile!
+### 🔹 API Automation
 
-If you find my projects useful, feel free to ⭐ the repositories!
+> Validating REST APIs and automating API workflows using **Postman & REST Assured**.
+
+**Focus areas:**
+
+`GET` • `POST` • `PUT` • `DELETE` • `JSON` • `Assertions` • `API Validation`
+
+---
+
+### 🔹 BDD Automation
+
+> Creating readable and maintainable test scenarios using **Cucumber + Gherkin**.
+
+**Focus areas:**
+
+`Feature Files` • `Scenario` • `Step Definitions` • `Hooks` • `BDD`
+
+---
+
+### 🔹 CI/CD Automation
+
+> Integrating automated tests into CI/CD workflows using **Jenkins + Maven + Git**.
+
+**Workflow:**
+
+```text
+Code → Git → Maven → Jenkins → Automated Tests → Reports
