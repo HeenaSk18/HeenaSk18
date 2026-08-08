@@ -111,18 +111,6 @@ Currently expanding my automation skills with **Playwright** across modern web a
 - Parallel Execution
 - Test Reports
 
-```text
-Playwright
-    │
-    ├── Web UI Automation
-    ├── API Automation
-    ├── TypeScript
-    ├── Python
-    ├── Fixtures
-    ├── POM
-    ├── Parallel Testing
-    └── Reporting
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=HeenaSk18&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=HeenaSk18&theme=dark&hide_border=false)<br/>
