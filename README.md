@@ -115,16 +115,27 @@ Currently expanding my automation skills with **Playwright** across modern web a
 
 <div align="center">
 
-<a href="https://github.com/HeenaSk18">
+### 💻 Languages & Technologies
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=HeenaSk18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img src="https://skillicons.dev/icons?i=java,ts,js,python" />
 
-</a>
+<br/><br/>
 
-<a href="https://github.com/HeenaSk18">
+### 🧪 QA & Automation
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeenaSk18&layout=compact&theme=tokyonight&hide_border=true&langs_count=4&hide=C%2B%2B,C,C%23,HTML,CSS,Shell" />
+<img src="https://skillicons.dev/icons?i=selenium,playwright" />
 
-</a>
+<br/><br/>
 
+### ⚙️ CI/CD & DevOps
+
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,jenkins,docker,kubernetes,aws,azure" />
+
+<br/><br/>
+
+### 🗄️ Database & Backend
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,nodejs,fastapi" />
+
+</div>
 </div>
