@@ -111,31 +111,26 @@ Currently expanding my automation skills with **Playwright** across modern web a
 - Parallel Execution
 - Test Reports
 
-# 📊 GitHub Stats
+# 📊 Tech Stack
 
 <div align="center">
 
-### 💻 Languages & Technologies
-
+### 💻 Languages
 <img src="https://skillicons.dev/icons?i=java,ts,js,python" />
 
 <br/><br/>
 
 ### 🧪 QA & Automation
-
-<img src="https://skillicons.dev/icons?i=selenium,playwright" />
+<img src="https://skillicons.dev/icons?i=selenium,playwright,postman" />
 
 <br/><br/>
 
 ### ⚙️ CI/CD & DevOps
-
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,jenkins,docker,kubernetes,aws,azure" />
+<img src="https://skillicons.dev/icons?i=maven,jenkins,git,github,githubactions,docker,kubernetes" />
 
 <br/><br/>
 
-### 🗄️ Database & Backend
+### ☁️ Cloud & Database
+<img src="https://skillicons.dev/icons?i=aws,azure,mysql,mongodb,postgres" />
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,nodejs,fastapi" />
-
-</div>
 </div>
