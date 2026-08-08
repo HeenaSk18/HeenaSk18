@@ -111,7 +111,12 @@ Currently expanding my automation skills with **Playwright** across modern web a
 - Parallel Execution
 - Test Reports
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=HeenaSk18&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=HeenaSk18&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=HeenaSk18&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=HeenaSk18&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeenaSk18&layout=compact&theme=tokyonight&langs_count=4&hide=C%2B%2B,C,C%23,HTML,CSS&hide_border=true" height="170"/>
+
+</div>
