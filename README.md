@@ -39,7 +39,7 @@ I have experience across:
 
 I enjoy turning repetitive testing into **reliable automation**, improving test coverage, and helping teams deliver quality software faster.
 
-> 💡 **My testing philosophy:** Good testing is invisible — because users never experience the bug. 🐞✨
+> 💡 **My testing philosophy:** Good testing is invisible - because users never experience the bug. 🐞✨
 
 ---
 
