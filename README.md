@@ -22,7 +22,7 @@
 
 # 💫 About Me
 
-👋 Hi, I'm **Heena Shaikh** — a **SDET | QA Automation Engineer | DevOps enthusiast** passionate about building reliable, maintainable, and scalable software quality solutions.
+👋 Hi, I'm **Heena Shaikh** - A **SDET | QA Automation Engineer | DevOps enthusiast** passionate about building reliable, maintainable, and scalable software quality solutions.
 
 I have experience across:
 
