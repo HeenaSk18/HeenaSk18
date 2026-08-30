@@ -5,7 +5,6 @@
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=8A2BE2&center=true&vCenter=true&width=800&lines=SDET+%7C+QA+Automation+Engineer;UI+%7C+API+%7C+Web+Automation;Selenium+%7C+Playwright+%7C+TestNG+%7C+Cucumber;Java+%7C+TypeScript+%7C+JavaScript;CI%2FCD+%7C+Jenkins+%7C+GitHub+Actions;Always+Learning+%7C+Always+Improving+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
-
 <br/>
 
 <a href="https://github.com/HeenaSk18">
